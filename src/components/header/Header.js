@@ -58,7 +58,7 @@ function Header() {
           )}
           {viewAchievement && (
             <li>
-              <a href="#achievements">Achievements</a>
+              <a href="#achievements">Certifications</a>
             </li>
           )}
           {viewBlog && (
@@ -73,7 +73,7 @@ function Header() {
           )}
           {viewResume && (
             <li>
-              <a href="#resume">Resume</a>
+              <a href="https://drive.google.com/file/d/1XocaKnvj_iBAsTTIu0uOtYRb1qnLyW0d/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
             </li>
           )}
           <li>

@@ -114,12 +114,18 @@
 
 .experience-text-desc {
   text-align: center;
+  // padding: 1px;
 }
 
 .experience-text-details {
   padding: 1.5rem;
   margin-top: 2rem;
 }
+
+.experience-text-details ul{
+  line-height: 1.7rem;
+}
+
 
 /* Media Query */
 
